@@ -1,0 +1,203 @@
+[background arg="res://vn/backgrounds/ch3/introch3.png" fade="0.0"]
+And after that night, visiting the "garden" would become baked into my nightly routine.[n+]\
+In just two days, my average day had gone from totally empty to filled with joy.
+It had seemed like they had given up on their little plans to change the world for now.[n+]\
+Our nights resided simply and soundly in the center of the playground.
+We built a long line of inside joke phrases--even the simplest of words began to make us laugh feverishly.[n+]\
+Without context, it'd make us look insane--which only added to the feeling we were inside our own little world.
+Sometimes I thought that maybe nobody would understand us for the rest of our lives.[n+]\
+But as our laughs grew wilder and dumber, it was hard to find that alarming.
+But there were still those moments where I'd judge myself.[n+]\
+Even though I am not friendless anymore, the looks I get for sitting alone at lunches tell me that my social status is still that of a loner.
+It probably hadn't helped that I'd often get lost in thought thinking about the conversations we had; my teacher told me I've gotten more spacey.
+Saturn didn't like showing their serious side to me, but sometimes I could hear their stomach grumbling.[n+]\
+I didn't feel bad about helping them out, and I started bringing them parts of my school lunches.
+I was a light eater in the first place, so it never bothered me. [n+]\
+But I couldn't stop the biting feeling that I wanted to do more for them.
+They had told me so easily that they wanted to make my world a better place...why couldn't I do the same for them, someone who lived in a harsher and scarier world?
+Though in a way, the new life they had bestowed me was leaking into my previous life.
+More nights I slept in, less time to finish schoolwork, more suspicious 'incidents'. [n+]\
+It was a source of paranoia for both my parents, and for my responsibility hiding it.
+But as I sat there innocently--no one able to read my mind to learn about my alter-ego's adventures--I wondered how I could ask anyone the simplest question that bloated my mind.
+How do I...help Saturn?[n+]\
+......They'd never let me know, but I bet they were thinking the same about me.
+[wait time="3.0"]
+[background arg="res://vn/backgrounds/ch3/dinnertable.png" fade="2.8"]
+[music path="res://vn/music/heart-beating-5857.mp3" fade="0.0" volume="6.0"]
+common/fillername3: Umm...can I ask for some advice?
+The words fell out of my mouth at the dinner table.
+dad: Of course, of course.
+common/fillername3: Well, I...ummmm..
+[ns=0.5]shitshitshitshitshithowdoiexplainthis
+common/fillername3: [ns=0.6]So if I ever had a friend who was...struggling with mone---
+dad: Oh yeah, I wanted to speak to you about something.[n+]\
+Your teacher called me, and she said that you've only gotten more isolated from the rest of your class.
+mom: We're worried about you. If there's a bully problem, please tell us.
+common/fillername3: No, Mom...[pause=0.3] It's fine.[pause=0.3] I'm doing fine without friends, I don't need them.
+mom: Ohhh,[pause=0.3] but you weren't always like this![pause=0.3] As a kid, you'd run up to anyone you saw with such a smile on your face.[n+]\
+You were [lspeed=0.1]soooo[lspeed=0.01] sweet, I'd have to stop you from helping just about anyone on the street.
+common/fillername3: I still like helping people. [n+]I was about to ask if you knew how I could do that more effectively...
+dad: Then why does your teacher say she never sees you out of your desk?[n+]\
+You've been acting so strange recently.
+mom: You've never been this hard to wake up every morning.[n+]\
+What's going on?[n+] Are you sick?[n+] Do I need to take you to the doctor?
+common/fillername3: It's pretty normal for kids my age to have friends outside of school as well.[n+]\
+Why are you judging me so harshly on my behavior at school?
+mom: But you never go out!![n+]\
+Have you been making friends on the internet?![n+] I've told you since you were a baby\: [pause=0.2]NEVER speak to strangers!!
+common/fillername3: Mom, [pause=0.5]that's none of your business.
+[sound path="res://vn/sfx/ch3/hit-on-table-43639.mp3" volume="0.0"]
+[music fade="0.0" volume="0.0"]
+[music path="res://vn/music/fast-heartbeat-151928.mp3" fade="0.0" volume="6.0"]
+dad: Don't talk down to us! We have a right to know what our son is up to!
+mom: We know you're up to something.[n+] Your school says you never pay attention, your grades are falling...[n+]\
+If you're staying up all night on your computer, we're gonna take it away from you.
+dad: Do we need to start monitoring everything you do like you're a little kid?[pause=0.3] Act your age.
+[sound path="res://vn/sfx/ch3/metal-chair-86673.mp3" volume="-10.0"]
+common/fillername3: I'm not hiding anything from you!![n+] Now,[pause=0.3] if you excuse me.
+[background arg="res://vn/backgrounds/ch3/bedroomch3.png" fade="3.0"]
+[music fade="0.0" volume="0.0"]
+[wait time="1.0"]
+[music path="res://vn/music/ch1/crickets-17862.mp3" fade="0.0" volume="0.0"]
+I could hear them continue to shout in my direction as I stomped off to my room.[n+]\
+...I shouldn't have tried talking about it at all. I dunno what I was thinking.
+Suddenly, I realized that this world had become lonelier than when I had no friends at all.[n+]\
+I belong elsewhere after all, so I stick out like a sore thumb here.
+My world and Saturn's aren't just separate, they oppose each other. [n+]\
+They couldn't cooperate with each other, never in a hundred years of progress.
+...I'm crying into my pillow.[n+]\
+I look like a complete loser. I want to go back to living in one world, [n+][pause=0.4]not two.
+[wait time="3.0"]
+My glazed-over eyes eventually glanced over the clock. [n+]\
+It was already a few minutes past 10.
+...I guess I better get going.
+[background arg="res://vn/backgrounds/ch3/outsidewindowch3.png" fade="1.0"]
+[wait time="1.5"]
+[background arg="res://vn/backgrounds/ch3/citystreetsch3.png" fade="1.0"]
+[wait time="1.5"]
+[music fade="0.0" volume="0.0"]
+[background arg="res://vn/backgrounds/ch3/thegardench3.png" fade="0.3"]
+[wait time="0.5"]
+[sound path="res://vn/sfx/ch2/rapid-footsteps-upon-gravel-68853.mp3" volume="0.0"]
+[music path="res://vn/music/ch1/the-place-we-dreamed-of-231049.mp3" fade="0.0" volume="0.0"]
+common/fillername4: Heyyyaaa Ygg!!!!
+They waved their hand wildly.
+common/fillername3: Umm..[pause=0.3]hey[lspeed=0.1]....[lspeed=0.01]how are you doing..?
+common/fillername4: Nothing without you, [pause=0.3]ehehe!!
+Their presence was warm enough to get my mood out of the gutter.[n+]\
+But it was a little bittersweet[pause=0.3]--not knowing how to get their fire shining brighter.
+common/fillername4: Hey,[pause=0.3] have you beat my score in arcade mode yet?
+common/fillername3: Aha, nope. [n+]\
+I've been meaning to get it, but school has kept me busy recently.
+common/fillername4: That's okay, I've been busy too!! Tonight, I wanna show you what I've been up to while you're sleepin away like a baby.
+[music fade="0.0" volume="0.0"]
+[lspeed=0.1]...[lspeed=0.01]Huh?[n+]\
+I guess I only spend two hours a day with them, but I haven't thought about everything they could be up to.
+[sound path="res://vn/sfx/ch2/anime-46068.mp3" volume="0.0"]
+common/fillername3: !!...
+I'm surprised I'm still not used to the usual affair of Saturn pulling my hand around.[n+]\
+This is nice, though. Sometimes I think too much.
+[music path="res://vn/music/ch3/city-traffic-outdoor-6414.mp3" fade="0.0" volume="0.0"]
+[background arg="res://vn/backgrounds/ch3/citystreetsch3blur.png" fade="3.0"]
+They took me through alleyway to alleyway, which had me wondering what this could even be. [n+]\
+It felt like we were traveling deeper into the city's underworld.
+[background arg="res://vn/backgrounds/ch3/alleyway.png" fade="1.0"]
+common/fillername3: This is probably the least you'd ever be willing to answer one of my questions, right?
+common/fillername4: Now you're getting it, ehehehehe!!!
+We eventually arrived at a restaurant.[n+] It was clearly off open hours,[pause=0.3] so something tells me this may not be legitimate entering.[n+]\
+This is what we're up to, huh?
+[music fade="0.0" volume="0.0"]
+[background arg="res://vn/backgrounds/ch3/restaurant.png" fade="0.0"]
+[sound path="res://vn/sfx/ch3/Interior-Door_Close.mp3" volume="0.0"]
+Saturn closed the door behind me, and leaned up to my ear.
+[music path="res://vn/music/ch3/Jazz at Mladost Club - Caravan.mp3" fade="0.0" volume="0.0"]
+common/fillername4: First of all, I'm sorry for the hold-up of getting this together.[n+]\
+I was so shy to approach people in public, I only waited until the deepest times of night.
+common/fillername4: I knew that our plans to save the world would be tough, so I wanted as many backing us as we can get.[n+]\
+But!! [pause=0.4]Just with my luck, I managed to find a neat set of recruits recently.
+I stood there for a moment, bewildered.
+common/fillername3: You got people already?![n+] W-when??!
+common/fillername4: I was lucky that these people were also looking to establish a domain!![n+]\
+It's just a bit of skillful uniting to conquer, you know how it is!
+They spoke with childish glee, but anxiety had spiked through my spine.[n+]\
+More...people? I guess I don't mind sharing the garden with others, but...
+I had struggled with people for so long, I was afraid that meeting anyone new would off-set everything I've earnt so far.
+Making it to the room that four people were seated in, I was shocked to see the difference in composition between them and Saturn.
+They were cloaked from head to toe, [pause=0.3]but looked to be at least teenagers,[pause=0.3] potentially even young adults.
+Our "disciples" were wearing simpler white robes, with loud red crosses running across.[n+]\
+Their posture sat lazily through their seats in a way that betrayed the elegance of their costumes.
+Saturn greeted them, their arm highlighting me to say "this is the friend I told you about".[n+]\
+They glanced in our direction without breaking the flow of their conversation, uninterested in us.
+I took a seat awkwardly, unable to pierce into what they were talking about.\
+Saturn's legs bounce up and down as they sit to the side, observing them quietly.
+common/fillername4: Ahem.[pause=2]\
+I told you all that once every member had arrived, we'd proceed with our plan to start immediately.
+prologue/maskedcohort: Took you long enough. We've been discussing our plans all night, kid.
+One of them visibly pushes up their glasses through their veil.
+prologue/maskedcohort: Ooh, ooh, oh yeah! I remembered what I wanted to say!!
+prologue/maskedcohort: Fufufufu..I want our first move to be me getting revenge on my ex-girlfriend!![n+]\
+Welllllll, we never made it official, but I was totally let on!!!
+Oh, Saturn. What have you gotten yourself into. [n+]\
+Peering at them from the opposite side of the room, I just can't get a read on their mind state right now.
+prologue/maskedcohort: This is so exciting, kyekyekyekyekye!!! I've always wanted to change the world!![n+]\
+Our adventures will be recorded in the next national anthem's lyrics!!
+prologue/maskedcohort: Uhhyuhehe...I should do it!! I have the most experience of any of you!
+prologue/maskedcohort: Oh yeah? I bet you haven't even thought about what you'd do if you were president for more than 15 hours!!
+prologue/maskedcohort: If I were president, I'd simply ban the stacies from whining!! Penalty\: death!! Uhyuh!!!!
+Everyone in the room except me lets out a worryingly genuine laugh.[n+]\
+...How long had Saturn spent around these guys already?
+prologue/maskedcohort: Kyehehehe...I think I KNOW BEST about how to run a country!! I've planned out the optimal conquering of every continent in four different RTSs!!
+The conversation went on between the four, swinging like a pendulum between ostensibly evil and just pathetic.
+Damn it... Saturn, shake, twitch a muscle, do SOMETHING so I can know what you're thinking!![n+]\
+You can't see anything wrong with what's going on here?!!
+I'm sure they have their reasons, but this is the first time I've been angry that I can't just look into their eyes.
+I hopped out of my seat, poked them on the shoulder, and pulled them off to talk to me outside the building.
+[music fade="0.0" volume="0.0"]
+[background arg="res://vn/backgrounds/ch3/alleyway.png" fade="0.5"]
+[music path="res://vn/music/ch3/city-traffic-outdoor-6414.mp3" fade="0.0" volume="0.0"]
+[wait time="1.0"]
+common/fillername3: Saturn, I don't know if I trust these guys.
+I spoke in a hushed but aggressive tone, as to not alert the other's attention.[n+]\
+But I was barely keeping myself under control, to be honest.
+common/fillername4: Awww, Yggy...but these guys wanna improve this city just as much as we did!
+common/fillername3: This is freaking me out..I dunno if I wanna do this anymore...
+common/fillername4: You don't understand how small we are...we really do need all the help we can get.\
+Besides, don't you want to make new friends? There's only so much of me to go around, eheh.
+[sound path="res://vn/sfx/ch3/Interior-Door_Close.mp3" volume="0.0"]
+Our conversation was interrupted suddenly by the rest of the group stepping outside.[n+]\
+They must've decided on who to make the "leader", considering they all followed the taller one in order.
+prologue/maskedleader: Alright, fellas. [n+]We agreed that we'd start the initiative as soon as every member as here.[n+]\
+I say we get a move-on. We got a shitstain of a society to clean up!
+The leader scruffs up Saturn's hair.[n+]\
+Eesh, I could tell they wouldn't like that, despite not speaking up.
+I scowled at how much fun he was clearly having at getting to speak down to anyone.
+But,[pause=0.3] a "shitstain"? [n+]It worried me that they showed so much clear disdain for the world.[n+]\
+I mean...I've felt so alienated in this place, is it naive for me not to be as spiteful as they are?
+Maybe I just need to get older to understand what these people are getting at.[n+]\
+I started feeling inferior, listening to the commanding way they spoke out...
+prologue/maskedleader: You two![n+] Couldn't keep up with our discussion earlier, eh?
+Saturn spoke up as I held my tongue.
+common/fillername4: The technical details aren't our forte,[pause=0.3] capishe?
+They were trying to look cool to the older kids.
+prologue/maskedleader: It's okay, I'll get you thinking on our level one of these days.[n+]\
+You got a good spirit, Saturn.[n+] Passionate kid,[pause=0.3] we'll make you blossom.
+At this point, it was more like I was biting my tongue.[n+]\
+I sat there in bewilderment thinking about how I could get out of this.
+It's not like a bully at school--with the real world utterly rejecting taking any responsibility over this domain, the only person who could end this was me.
+Ugh[pause=0.3]...having no idea what the right decision was kept making me feel so immature.[n+]\
+Am I gonna regret this all in the future?
+As if on cue, the leader spoke up.
+prologue/maskedleader: So are you pussies doing this,[pause=0.3] or what?
+He stood there standing off into the distance, ready to lead us into battle against whatever he's shadowboxing.[n+]\
+Saturn stepped forwards after only a second of hesitation.
+And so I walked as well.[n+]\
+My head wasn't in the game, but I forced my legs to walk on regardless.
+It was all for Saturn, I was telling myself.\
+But I was starting to think it was for nobody at all.
+[music fade="0.0" volume="0.0"]
+[background arg="res://vn/backgrounds/prologue/citystreetch0.png" fade="1.0"]
+And so we took step after step after step.\
+And when we walked down a thousand stairs, and arrived at the gate to hell, I stepped into it too.
+[background arg="res://vn/backgrounds/fadetoblack.png" fade="8.0"]
+[wait time="10.0"]
+jump ch4/

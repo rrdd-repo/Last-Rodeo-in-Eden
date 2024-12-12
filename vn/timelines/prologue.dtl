@@ -1,0 +1,80 @@
+[background arg="res://vn/backgrounds/prologue/citystreetch0.png" fade="0.0"]
+[style name="defaultstyle"]
+[music path="res://vn/music/prologue/Jazz at Mladost Club - Konflikt.mp3" fade="0.0" volume="0.0"]
+Passing through the streets were a group of six boys. [pause=0.5]\
+I think I was one of them.
+You couldn't perfectly tell through the suits they wore, but they seemed to range from teenage to adult.[n+]\
+They walked in fine line lit only by the passing cars and storefront neon.
+prologue/maskedleader: Don't make any noise, shit for brains!!
+One of them had been leading us, indiscriminately barking in low tones at whatever behavior made him anxious. This was a secret operation, after all.
+We scuffled with neither cooperation nor organization through corner to corner.[n+] \
+Nobody seemed to even know what we were going to do.
+prologue/maskedcohort: Our first target should be that convenience store over there~! I fought with the manager there every day...I've dreamed of paying him back before.
+One of the porkier ones spoke with a nasal rasp.
+You couldn't see what was running through the leader of the group's mind from their face, but just the way they spoke made it obvious that they were nervous, horrified of having to actually make a move.
+prologue/prologueeve: Look!!
+The youngest member of the group spoke in a hushed voice.
+They pointed across the street from us at someone coming out of a butchery, holding various meat goods.  [n+] \
+The man quickly turned their eyes towards us, giving us a fairly reasonable wide stare.
+I didn't catch who began running first, but the adrenaline kicked in--I felt shoving to my sides as everyone booked it in the man's direction.
+After a flinch of hesitation, the man with the bag in his hands was chased off, turning the corner at the edge of the street. Everyone followed suit except me.
+[sound path="res://vn/sfx/ch1/big-punch-with-whoosh-103638.mp3" volume="0.0"]
+[music fade="0.0" volume="0.0"]
+[music path="res://vn/music/ch3/city-traffic-outdoor-6414.mp3" fade="2.0" volume="0.0"]
+It wasn't soon before someone was returned by force; the young kid in robes was kicked onto the curb, literally knocked back into view from the commotion beyond the corner. [n+]I rushed over to him.
+common/protagonist: Are you okay?!
+prologue/prologueeve: So...we're finally making a difference, aren't we? [n+]\
+[ns=0.2]*cough cough*
+I feel the back of their head. They're bleeding just a little--[n+]soothing my worry, but anger only rising as I look down at the dampness of red on my hand...
+common/protagonist: This isn't revolution, this is a public meltdown.[n+] \
+Come on, let's just go home.
+prologue/prologueeve: You're the only one with a home to go back to. [n+]\
+I'm not leaving until I've taken this whole city as my own.
+I slapped them in the face. They're so[lspeed=0.08]...[lspeed=0.01]stupid.
+Ughhh...I feel sick to my stomach. I can't let these emotions get the better of me. [n+]\
+I want to be better than these people. I just wished they would join me on that.
+The rest of the members of the group return from the next street, wrapped meat in the tallest member's hands. [n+]\
+I get the impression it was all they could take from the guy.
+He scrunches up the bag, staring at it closely. He catches his breath.
+prologue/maskedleader: Our first operation, boys.[n+][pause=0.3] (pant)[pause=0.3]\
+We're gonna head into that store.[pause=0.5] We're gonna rob the shit outta 'em. [pause=0.3](pant)
+prologue/maskedleader: I[pause=0.3]-(pant)[pause=0.3]-I'm not going home [pause=0.3](pant)[pause=0.3] with just this.
+prologue/maskedcohort: Boss...this shit is boring. When are we gonna hold up a military base?!
+prologue/maskedleader: We have to build up and develop our skills, b[pause=0.3]-b[pause=0.3]-brother. [n+]\
+We'll make a name for ourselves, and begin to recruit those to our c[pause=0.3]-cause.
+The dude was clearly terrified of committing to anything more than harassing random civilians.[pause=1] This was a power trip.
+After many moments of hesitation, they begin to step into the Butchery one after the other. I follow briskly as to keep my eye on my friend.
+[music fade="0.0" volume="0.0"]
+[music path="res://vn/music/prologue/Connie Crothers_Michael Bisio - improvisation #4.mp3" fade="0.0" volume="0.0"]
+[background arg="res://vn/backgrounds/prologue/butcherplace.png" fade="0.5"]
+A man is standing at the store checkout. The group leader firmly walks up to him, slamming his hands onto the kiosk, beginning to shout in bursts of ramble.
+As the two begin to yell at each other, I hear series of words I've never heard come out of the leader's mouth. He's beginning to demand for money, I think.
+butcher: GET THE FAUCK OUT OF MY STORE!! ALL OF YOU!!! GET OUT NOW!!
+The Deli justifiably barked back. [n+] \
+He reached his hand into desks under the cash register, as the group breathes loudly in anticipation.
+[lspeed=0.1]He pulls out a pistol. [n+]\
+Ohhhh shit.
+The group scatters in the direction of the door, stampeding directly in my direction. [n+]\
+[pause=0.2]I react as quickly as I can, just barely making it out of the door as my shoes get stepped on once or twice.
+[background arg="res://vn/backgrounds/prologue/gunshot.png" fade="0.2"]
+[sound path="res://vn/sfx/ch5/gun-shots-from-a-distance-11-96409.mp3" volume="0.0"]
+Gunshots ring out.
+[sound path="res://vn/sfx/ch0/handgun-74066.mp3" volume="0.0"]
+We make it out one by one, bullets speeding past our ears. Just as I think everyone made it out, [n+]the chubby man I didn't know falls flat on the pavement in front of us. Blood seeps onto the floor.
+[sound path="res://vn/sfx/ch0/body-fall-47877(1).mp3" volume="0.0"]
+After the few seconds it took to register what my eyes were seeing, my body seizes control of itself from me. I collapse to the pavement.
+This is stupid. Everything about this is stupid. [n+]\
+Humoring these guys has done nothing but eat away at me the whole way through.
+I can no longer control my breathing. [n+]\
+I can only curse that I stumbled into this nightmare world in the first place.
+The tallest member picks me up, carrying me off before the Butcher can fill me with lead. [n+]\
+My memory of what happens next is hazy, but I know I wouldn't thank him.
+[music fade="0.0" volume="0.0"]
+[wait time="1.0"]
+[background arg="res://vn/backgrounds/fadetowhite.png" fade="1.0"]
+That surreal night was the consequence of a series of coincidences that had all started just a few weeks ago. [n+]\
+It started out of desperation.
+I was crawling out of the burning light, and fell into darkness.
+[background arg="res://vn/backgrounds/fadetoblack.png" fade="5.0"]
+[wait time="10.0"]
+jump ch1/

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d7oho4abfjfx"
+path="res://.godot/imported/Jazz at Mladost Club - Caravan.mp3-b6a82d6596c362796d95e73d2aed243e.mp3str"
+
+[deps]
+
+source_file="res://vn/music/ch3/Jazz at Mladost Club - Caravan.mp3"
+dest_files=["res://.godot/imported/Jazz at Mladost Club - Caravan.mp3-b6a82d6596c362796d95e73d2aed243e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

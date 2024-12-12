@@ -1,0 +1,205 @@
+[background arg="res://vn/backgrounds/ch4/morningch4.png" fade="1.0"]
+[music path="res://vn/music/ch2/birds-in-the-morning-24147.mp3" fade="0.0" volume="0.0"]
+I didn't dream last night.[n+]\
+I knew I hadn't, from the moment I first wished that those memories weren't reality.
+The feelings repeated in waves. Crashing into me one after another, over and over again.[n+]\
+Anger[pause=0.2], bitterness[pause=0.2], hatred[pause=0.2], sadness[pause=0.2], guilt[pause=0.2], self-loathing[pause=0.2], disgust.
+In my heart, I knew that was the last visit I'd make to Saturn's garden.[n+]\
+I had spent my nights leisurely vacationing, and I was returning home forever.
+[sound path="res://vn/sfx/ch1/door-knock-6406.mp3" volume="0.0"]
+I had woken up to the sound of my Mom knocking at my door. [n+]\
+Unsurprisingly, I had slept in quite a bit.
+I can't blame them for being unnecessarily suspicious this time, they're right at this point.[n+]\
+[pause=0.3]Self-loathing.
+After dragging myself out of bed, I sprinted out my room with no interest in discussing anything.[n+]\
+I think I heard my parents telling me not to come home late tonight, because of something they heard in the news.
+[background arg="res://vn/backgrounds/ch4/outsidewindowch4.png" fade="0.3"]
+[wait time="0.5"]
+Upon stepping out, I walked by my Dad, who had been doing something in our garden.[n+]\
+I walked closer, assuming he was picking fresh herbs.
+[lspeed=0.1].....[lspeed=0.01]No. I can see what's in his hands. [pause=0.5]That's not any tools,[lspeed=0.08] he's putting up *cameras*.[n+]\
+Haha!! I mean, of course if there's things going on in the news, I guess I get it.
+.....This is really it, huh?[pause=0.3] I can't go back to Saturn, I've lost the key for good. [n+]\
+[pause=0.3]Guilt.
+[music fade="0.0" volume="0.0"]
+[background arg="res://vn/backgrounds/ch4/cafeteriabw.png" fade="0.5"]
+[wait time="1.0"]
+Having gotten to school, there was a strange anxiety in the atmosphere.[n+]\
+It was like I had been fenced back into this place, I had nowhere else to go but here.
+It was like I had become irreversibly altered by that life I had secretly lived.[n+]\
+I had only become more out of place here with time, more obviously an error for me to be here.
+I probably looked just as casual as anyone else carrying around their bags at lunch, but I was holding back tears.[n+]\
+Suddenly, I actually heard someone call out to me.
+questionmark: Hey, lookin' for a seat?
+[music path="res://vn/music/ch4/Jazz at Mladost Club - Blue Monk.mp3" fade="0.0" volume="0.0"]
+It was a boy miraculously sitting alone. He had brown hair, gelled up like a child actor. [n+]\
+As I put my bag onto the table inches away from him, the same anxiety went through me.
+But the boy was persistent in getting a conversation out of me.
+unnamedschoolkid: Soooo...what do you do?
+What does he mean? Like, hobbies?
+common/fillername3: I guess I play games and stuff.
+Lame answer, sorry!!
+unnamedschoolkid: That's cool, man. Like F*FA, or what?
+Oh no, I am too much of a nerd to answer to this right now.[n+]\
+But, hm... [n+]This is an opportunity to talk to someone outside of my parent's bubble about my life.
+common/fillername3: Hey, ummm...[pause=0.5] I've been having some problems recently.[n+]\
+I have this friend...I care about them a lot. But they've been getting into the wrong crowd.
+common/fillername3: I decided to stop talking to them today.[pause=0.5] But I keep thinking about how it might be worth it to keep pursuing them and change their mind, they meant a lot to me.
+The boy looked at me unassumingly, seeing right through me.
+unnamedschoolkid: Is this an internet friend?
+...Oh, [pause=0.5]that's actually a good excuse around this type of person.[n+]\
+I nodded.
+unnamedschoolkid: It's natural to fall off of online friends here and there.[n+]\
+When you're across the world from someone, you just can't click with them like regular friends.
+unnamedschoolkid: You should try and replace the hole they left by hanging out more here.
+Saturn was...[pause=0.3]inconvenient? \
+I mean, I guess they're right in a sense.
+They were so afraid of other people, I never ended up being able to take them anywhere.[n+]\
+Regular friendships go to loiter around at the mall, go to the movies, and whatever.
+But[pause=0.3]...it felt so special.[n+]\
+How could it possibly not be as valuable as a regular friendship?
+unnamedschoolkid: Hey, are you signed up for any sports? I'm on the school swim team.[n+]\
+I like your vibe. I'm sure you'd make some more friends there.
+The dude in front of me was kindly offering the opportunity to try one last time to find something in this place.
+Maybe I'm...[pause=0.3]resorting to chasing after something subpar, only because I have nothing better.
+common/fillername3: Sure.[pause=0.3] I'll sign up later today.
+unnamedschoolkid: Hey, [pause=0.3]wait a minute.[n+]\
+'Never catched your name.
+[wait_input]
+[background arg="res://vn/backgrounds/ch4/cafeteria.png" fade="4.0"]
+questionmark: ......John.
+unnamedschoolkid: From now on we're peers, John. We'll have to hang out and play games some time.
+I was so used to hearing my name uttered professionally, it felt weird hearing someone naturally say it.
+john: Thanks for the advice. See you later man.
+[music fade="0.0" volume="0.0"]
+[background arg="res://vn/backgrounds/ch4/ch4bedroom.png" fade="1.0"]
+[wait time="1.0"]
+[music path="res://vn/music/ch4/indoor-hard-rain-sound-190883.mp3" fade="10.0" volume="0.0"]
+I walked home scared, more than anything.[n+]\
+I found a new light of hope,[n+] but if this doesn't work out,[n+] what's even left here?
+I had to start running;[n+] it started raining on me out of nowhere in the middle of me pondering this.[n+]\
+Which managed to get me out of the depressive mind state if only for a little bit.
+I sat in my room, in front of a stack of schoolwork and papers.[n+]\
+I had to relearn how to focus on this, 'cuz it's all my life has now.
+The vulnerability I had let out of myself around Saturn[n+]--I have to hide it again.[n+]\
+Being forced to live in the light after taking comfort in the blanket of darkness...[pause=0.4]it felt like I was naked.
+Speaking of naked,[n+] it sure is cold in my room tonight.[n+]\
+The wind brushed against me in a way I wasn't used to.
+[wait time="0.5"]
+[sound path="res://vn/music/heart-beating-5857.mp3" volume="6.0"]
+Before I recognized it, my heart was already beating out of my chest.
+I turned my shoulder closer into the schoolwork, shielding myself.[n+]\
+No, there's no mistake that my window is open right now[lspeed=0.1]......
+john: [lspeed=0.1].....[lspeed=0.01]Saturn, why haven't you spoken up yet?[n+]\
+You always try to scare me when you creep up behind me.
+common/fillername4: You're half an hour late, Yggy.[n+]\
+You've never skipped a day before, I was worrying about you!~
+john: I'm not coming back.
+common/fillername4: Are you that upset with me?[n+]\
+Oh dear, what happened to your superhero spirit?
+john: I'm just[lspeed=0.05]..not cut out for any of this.[n+]\
+The human world is my world. [n+]I thought I didn't belong here, [pause=0.3]but I did.[n+] It's not my right to change it.
+common/fillername4: [lspeed=0.1]Ehehehe...[lspeed=0.01]but you've already walked through my garden for so long.[n+]\
+Won't you just come crying again that it was all you had?
+I felt something shift in my pulse.[n+]\
+[pause=0.3]Anger.
+john: YOU KNOW WHAT, [pause=0.3]SATURN? [n+]YOU WERE RIGHT!![n+] I'M NOT LIKE YOU![n+]\
+YOU WERE RIGHT EVERY SECOND YOU DOUBTED OUR SIMILARITIES!!
+john: I'M NOT CUT OUT FOR WHAT YOU DO. [n+]I DON'T DESERVE TO BE FRIENDS WITH YOU.[n+]\
+BUT YOU'RE ALSO CHANGING!![pause=0.5] YOU'RE GROWING COLD, SATURN!!
+john: I ONLY THOUGHT YOU WERE LIKE ME WHEN I HEARD THAT EXCITEMENT IN YOUR VOICE!![n+]\
+I'M A STUPID KID WHO CAN'T GROW UP, [pause=0.5]AND I THOUGHT WE SHARED THAT.
+[pause=1]Bitterness.
+common/fillername4: Right now, you are like a larvae;[pause=0.3] you have infinite potential.[n+]\
+But I'll nourish you well. [pause=0.5]And when you metamorphosize, [pause=0.3]you will have to make a choice.
+john: I'M NOT FIT TO BE WITH YOU!![n+]\
+I'LL GO BACK TO MY LIFE, YOU GO BACK TO YOURS, OKAY?[n+] I'M SURE YOU CAN FIND OTHERS BORN THERE.
+But Saturn had kept speaking uninterrupted.
+common/fillername4: You won't become a butterfly, nor a moth.[n+]\
+You'll be reborn into an angel. [pause=0.5]And we'll dance through the night together forever.
+I hadn't realized it, but something had shifted in them as well.[n+]\
+They didn't want me to know, but they were desperate.[n+] Maybe I was their motivation to keep going as well.
+Fuck,[pause=0.3] I'm so selfish.[pause=0.5] I'm so,[pause=0.3] so selfish.
+john: GET OUT!!! [n+]GET THE HELL OUT OF MY ROOM!! DON'T COME BACK!!!
+Contrarily,[pause=0.3] Saturn elegantly dropped down from the window,[pause=0.3] getting ever so slowly closer to me.[n+]\
+My room was now fully occupied by two.
+common/fillername4: I love you,[pause=0.3] Ygg. [pause=0.5]I'm here to reap you, my most bountiful harvest.[n+]\
+We'll laugh,[n+] and we'll play,[n+] [ns=0.5]and we'll change the wor----
+[sound path="res://vn/sfx/ch4/punch-140236.mp3" volume="0.0"]
+Hatred.[n+]\
+Before I had realized it, they were doubled over on the floor with their palms over their face.
+[sound path="res://vn/sfx/ch4/punch-4-166697.mp3" volume="0.0"]
+And I wasn't even done yet. I was already beating down on them; a success in violence that Saturn's group hadn't been able to reach last night.
+At first, Saturn didn't fight back. I guess that was them giving me a chance.[n+]\
+I had lost track of time again, but after either seconds or decades, I felt the sharp pain.
+[sound path="res://vn/sfx/ch4/bite-in-crunchy-bread-46216.mp3" volume="0.0"]
+Unlike me, they fought like a wild animal. [n+]\
+Shakily scratching away at me--nails dragging through my skin--and weak bites that left my skin red.
+Even if it was feelings of anger at me, It hurt more than I expected to see them so[lspeed=0.2]...emotional.[n+]\
+I was used to the coldness and the unreadable nature of the mask they wore.
+[sound path="res://vn/sfx/ch4/swoosh-6339.mp3" volume="0.0"]
+They beat me with a fluster of weak kicks to the stomach, pushing me away while they pulled me in with their hands.[n+]\
+They were like a baby kitten playfighting with you.
+[sound path="res://vn/sfx/ch4/punches-and-hits-44530.mp3" volume="0.0"]
+john: JUST DIE ALREADY! DIE, DIE, DIE, DIE, DIE!!!!
+I had punched them out of breath; they let out nothing but hisses and quiet growls.
+[wait time="0.8"]
+As I hit them into submission, I had been so lost in the heat of the moment, something I hadn't considered crept up on me.
+[sound path="res://vn/sfx/ch4/footsteps-stairs-fast-90220.mp3" volume="0.0"]
+dad: Jooohn? [pause=0.5]I heard some yelling,[pause=0.3] are you okay in there?
+The footsteps were so much closer than they usually are before I notice them.
+[sound path="res://vn/sfx/ch0/body-fall-47877(1).mp3" volume="0.0"]
+I got off Saturn as fast as I could, shoving them behind my bed like kicking a rug into place.[n+]\
+This is all over if they speak up, even once.
+Quick quick quick quick quick quick. [n+]\
+How do I even think of a reason to explain all the noise they've been hearing?
+My eyes flicker around the room, combing every corner for something, any excuse at all.[n+]\
+...And there, before anything else can even come to mind, an overwhelmingly stupid idea takes over my brain.
+[sound path="res://vn/sfx/ch4/dorm-door-opening-6038.mp3" volume="0.0"]
+[wait time="1.0"]
+I heard an audible sigh.
+dad: Kiddo, you need to go to bed already.
+I was holding a motion controller in my hand, standing on a video game balance board.[n+]\
+That did give a good reason for why I was sweating bullets, right? Right???
+john: AHAHAHA..[pause=0.3]WON'T HAPPEN AGAIN!!!
+My dad gives me a bemused look before turning to close my door again.[n+]\
+[ns=2]Zapping back into what was going on, I turned around--
+[music fade="0.0" volume="0.0"]
+[sound path="res://vn/sfx/ch4/thunder-for-anime-161022.mp3" volume="0.0"]
+[background arg="res://vn/backgrounds/fadetowhite.png" fade="0.1"]
+[wait time="0.2"]
+[background arg="res://vn/backgrounds/ch4/ch4bedroomsaturn.png" fade="0.0"]
+[wait time="5.0"]
+[music path="res://vn/music/ch4/indoor-hard-rain-sound-190883.mp3" fade="8.0" volume="0.0"]
+I COULDN'T HIDE THEM!!! I COULDN'T DO IT!!
+My controller slips out of my hand in shock. [n+]\
+I'm utterly frozen in fear, but Saturn takes step after step just fine.
+It's like I was standing in a puddle of deep black tar, slowly sinking back into their grasp.
+common/fillername4: I thought about it, and I'll listen to you.[n+]\
+I'll try and stop myself from coming back. I'll convince the others to not raid your place as well.
+common/fillername4: But these new guys just aren't as fun as you, I might get bored of them.[n+]\
+So don't blame me if I come back and start searching across your world until I find you, okay?
+They're closer to me than they've ever been before, even when I had blinded myself.[n+]\
+No longer protected even by inches, their hand rested precariously on my shoulder.
+common/fillername4: I loved you, Yggdrasil. [n+]\
+Even when you didn't fulfill your promises.
+They leaned in, and kissed me.\
+.....Ah...!!
+I could feel the imprint of their lips on mine through their mask. [n+]\
+And with that, every feeling in my body exploded.
+WHY?! [pause=0.8]WHY AM I BEING TORN APART[pause=0.5] BY THESE TWO SPACES,[pause=0.5] THESE TWO EMOTIONS.[n+]\
+I knew that love was the same extreme as hate. [pause=0.5]That their world could've been the same as mine.
+I hated my world because I had nothing in it, I loved their world because it had them in it.[n+]\
+I cursed everyone who had caused the rift between what had so obviously once been one.
+But the circumstances to repair these worlds were so far out of view.[n+]\
+As we shared our first and last tender moment of truly sharing a dimension, only one feeling was left.
+[pause=0.3]Sadness.
+An irreparable longing.
+[sound path="res://vn/sfx/ch4/punch-140236.mp3" volume="0.0"]
+I put every last ounce of energy in my burning out body into my knee, rocketing it into their stomach.
+The kiss ended with a cough, and a bouquet of blood on my face.
+The rocket went off without me. I'm stranded on this planet forever.
+[background arg="res://vn/backgrounds/fadetoblack.png" fade="6.0"]
+[wait time="10.0"]
+[music fade="0.0" volume="0.0"]
+jump ch5/

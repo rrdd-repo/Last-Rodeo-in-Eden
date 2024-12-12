@@ -1,0 +1,49 @@
+[gd_scene load_steps=2 format=3 uid="uid://dbilrf5tadii0"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_gvu6f"]
+font_size = 20
+
+[node name="Credits" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -544.0
+offset_top = -297.0
+offset_right = 532.0
+offset_bottom = 376.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+text = "Credits:
+Concept, Writing, Collage Artist
+River S.
+Editing, Technical Work/Programming
+Rosa S.
+Last second editing help
+Solenne M.
+Made in Godot with Dialogic 2
+All background photography was received from the royalty-free compilation website Pixabay.com, 
+and then processed with paint dot net, as well as using pyrochild's paint.net jitter plugin.
+Sound effects from Pixabay.com, readme of full pixabay credits in .txt
+\"INTERIOR DOOR – CLOSE\" from Soundimage.org was used, composed by Eric Matyas. 
+\"The Place we Dreamed of\" by Geoff Harvey, obtained from Pixabay.com
+Cover of \"Ballade\" by Claude Debussy by Abydos_Music, obtained from Pixabay.com
+Music obtained from freemusicarchive.org: Caravan, Konflikt, Blue Monk, 
+and Blue Bossa by the group  Jazz at Mladost Club (in compliance with CC BY-NC-SA licensing)
+Music obtained from freemusicarchive.org: Multiple Ignorance by 1st Contact (under compliance with CC BY-SA)
+freemusicarchive.org: \"improvisation #4\" by Connie Crothers/Michael Bisio (License not in use)"
+label_settings = SubResource("LabelSettings_gvu6f")
+horizontal_alignment = 1

@@ -1,0 +1,178 @@
+[music path="res://vn/music/ch1/crickets-17862.mp3" fade="0.0" volume="0.0"]
+It was late, nearly 10PM on the night of my fourteenth birthday. It was a day of milestones and commemoration. [n+]\
+I wanted tonight to be the day things changed.
+[wait time="0.2"]
+[sound path="res://vn/sfx/ch1/door-knock-6406.mp3" volume="0.0"]
+[background arg="res://vn/backgrounds/ch1/bedroom.png" fade="0.2" transition="Swipe Diagonal Up Left"]
+My daydreams were interrupted by a knock to the door.
+mom: Do you want any leftovers? There's even one more cupcake left!
+common/protagonist: No thaaaanks!!!
+[sound path="res://vn/sfx/ch5/wrapper-crinkle-96838.mp3" volume="0.0"]
+I shout through the door without taking a second of focus off the task at hand. [n+]\
+I was taking bottles, notebooks, maybe even a plushie, whatever else I can fit into my backpack.
+As someone who tends to hide what I'm doing on my computer from my parents, I've developed memorization for how far the footsteps of my parents are from my doorstep.
+I had studied our house's layout for this moment. [n+]\
+Luckily, I happened to reside in a one-story house, making my escape much more easy.
+[background arg="res://vn/backgrounds/ch1/outsidewindow.png" fade="2.0"]
+When I see the lights go off in the hallway, that's my cue\: [n+]I swing open the window, taking one step after the other into the garden.
+More than anything, today I had a cramped birthday, one stuck in my bedroom. [n+]\
+Another year, another push from my parents to make the most of my life.
+So I did something I had always wondered about doing. [n+]\
+What if I just left? What if I searched to find if there were things elsewhere?
+I wanted to keep exploring the night until I found something.[n+]\
+I wanted to find if there was anything for me in this town.
+I walked by store after store after store, but I had kept my my money safe at home. [n+]\
+Don't wanna get robbed...!!
+I'll have to keep any nice food I see on display in mind for next time I'm out in the daytime.
+I remembered this path quite well. As a kid, I had walked it many times to reach the nearby park.
+It had a playground on it that I loved; I wonder if it still stands to this day?
+[wait time="0.5"]
+Turning one last corner, I'm surprised to see it in perfect view from across the street.
+[wait time="2.0"]
+[background arg="res://vn/backgrounds/ch1/thegarden.png" fade="2.0"]
+[music fade="0.0" volume="0.0"]
+It still exists, huh? Some of the metal has been replaced with plastic, though I guess not everything can stay the same with time.
+Could I even get joy from something like this, anymore?[n+]\
+Was this stupid? Should I have moved on, trying to catch the next bus stop?
+I fumbled into a jungle gym that was too big for me at this age. It had multiple floors, separated with walls too.[n+]\
+If anyone saw someone as grown up as me doing this in the middle of the night, they'd think I'm a freak.
+questionmark: Heya, weirdo!!
+[sound path="res://vn/sfx/ch2/anime-46068.mp3" volume="0.0"]
+[music fade="0.0" volume="0.0"]
+common/protagonist: ACKK!!!!
+The voice was so nearby, it took me a second to realize which direction it was.[n+]\
+But as I turned my head up to look where it had come from, I heard it scuttle away on the metal.
+questionmark: Um!! Umm!! Please don't look at me!!
+common/protagonist: Ehh... why not?
+questionmark: That's all I ask of you, kind stranger!! [lspeed=0.08]But...[n+]\
+I am glad to talk to someone, ehehe.
+questionmark: Follow through my requests, and I might return the favor! ✩
+[background arg="res://vn/backgrounds/ch1/gardeneyesclosed.png" fade="2.0"]
+[music path="res://vn/music/ch1/the-place-we-dreamed-of-231049.mp3" fade="0.0" volume="0.0"]
+I didn't get it, but something told me it was better to listen than to reject this opportunity.
+common/protagonist: So[lspeed=0.5]...[lspeed=0.01]why were you here?
+ch1eve: This is my turf! It's much more suspicious that YOU [pause=0.3]are down here!
+common/protagonist: You're dodging the question...[n+]\
+If I had to ask[pause=0.3], though[pause=0.3], what makes you think I'm suspicious?
+ch1eve: Hmm...tough to put to words.[n+]\
+...I guess you just don't look like you belong here! Ehehe!
+common/protagonist: Everyone tells me that!! What's so weird about me anyways, huh?!?
+The boy proceeds to dodge my questions with his own thoughts, as if he was barely paying attention.
+ch1eve: Well,[n+] I get how you must feel all the time. [n+]\
+I don't feel like I belong anywhere either.
+ch1eve: That's why I like places like this one.[n+]\
+If no one's here to make me feel like an outsider, then I can't be out of place!
+common/protagonist: ...Huh. I just met you, and it's like you know me better than I do.
+The boy I couldn't see had just said something that felt profound for the tone of their voice. [n+]\
+I guess I can't know their age for sure, but their tone was scratchy, filled with voice cracks.
+[wait time="0.5"]
+[sound path="res://vn/sfx/ch1/metal-plate-gong-4-248610.mp3" volume="0.0"]
+I can hear the shuffle on the iron bars above me.
+ch1eve: Hey, hey hey hey, what's in that backpack? Hmm??
+I actually feel the lightest shove through my bag to my spine; he must've reached out to touch it.
+common/protagonist: I didn't know where I was gonna go tonight, so I, uhh...just brought anything I thought might come in handy.[pause=0.1] A water bottle[pause=0.1], some snacks. [pause=0.2]Umm... flashlight, games, y'know.
+ch1eve: Games?? I loooove games!! It's been so long since I last played games, give me them please!![n+]\
+Just for a little bit, I promise I'll return them!!
+...This is the exact point in which I wondered how crazy I was. [n+]\
+This is the perfect set-up. I'll never have someone so well positioned to rob me ever again!!
+But equally, the eyes I had imagined of a boy who wanted this so much more than me bore into the back of my head.
+common/protagonist: You know what? You've made my night feel like it was worth something. Go wild.
+[sound path="res://vn/sfx/ch1/cartoon-hearts-overflow-36708.mp3" volume="0.0"]
+ch1eve: YAHOOOO!!!!!! ♪♪
+It was hard not to let the encouragement go to my head after hearing such childish glee. [n+]\
+I then felt the pelting of grabs against my back as he went wild, checking pocket after pocket.
+Shortly after, I could hear them turning on the game console.[n+]\
+The one that was plugged in was a game I hadn't seen anyone other than me play before.
+As he'd play, he'd ask me little questions about the game, and how to play it. Honestly, that was the best part yet.[n+]\
+I didn't have anyone to talk about these silly things I spent so much time occupied by, until now.
+I couldn't tell you how much time went by, just from me telling them useless trivia, and us giggling along. [n+]\
+It was like listening to a caveman discover fire for the first time.
+It was the type of conversation I've been envious of others for having. [n+]\
+Where you hear the sparks click into place, even if it's over something dumb.
+[wait time="2.0"]
+[music fade="0.0" volume="0.0"]
+[music path="res://vn/music/ch1/crickets-17862.mp3" fade="0.0" volume="0.0"]
+After things had wound down, I heard a sigh, followed by feeling the game system shoved back into my backpack.
+ch1eve: Phew, that was fun! Now, let's play together!!
+common/protagonist: I don't have any games like that, sorry.
+ch1eve: Bweh, that's not what I mean. I mean, let's have a playdate!!
+Maybe it's because closing my eyes made me forget where I was, but I hadn't considered actually playing alongside them like kids do.
+common/protagonist: How will I be able to play if I can't see you, though?
+ch1eve: You have eyelids, right? Everyone has eyelids...so you better not have forgotten yours!
+I didn't have faith that there was anything we could do together without using my eyes, but I listened to them, shutting them as tight as I could.
+[wait time="0.5"]
+[sound path="res://vn/sfx/ch1/walking-in-gravel-91427.mp3" volume="0.0"]
+After seconds of hearing nothing but the wind, I heard a step, and another step, the creak of metal, and a big splash into the field of gravel in front of me.
+One more step, and the force of his hand wrapped around my mine with roughness. [n+]\
+I had never held hands with a boy before. Not that I had seen if they were a boy for sure.
+common/protagonist: Hey...you're a boy, right?
+ch1eve: You haven't seen me, so you couldn't know, right?
+I pout.
+common/protagonist: Is there any question I could ask that you would answer?
+ch1eve: Hehehehhee!!!!
+They giggled sheepishly as they continued to roughly guide me through the artificial sands. [pause=2]\
+Eventually, they stopped.
+I heard them shuffle around to the sound of metal chains, and I could tell we were in front of a swing set. Getting the idea, I felt around until I had gotten behind them.
+ch1eve: Hey, hey!! Give me a biiiiiiiiiig push!! Gimme!!
+Embarrassingly, I had no idea what the "right way" to do this was... My parents might've swung me when I was really young, but I forget. Since then, I've never had friends on the playground.
+I felt around the space in front of me until my hands were firmly placed onto their back.[n+]\
+It was scrawny; I could easily feel their spine.
+I bent in my knees, and gave them a good shove. I was afraid of the swing hitting me while I couldn't see, but it needed a few pushes to get the momentum they needed. That gave me time to learn the timing.
+ch1eve: WOOOO!! I'm flying!!! This is awesome!!!
+[music fade="0.0" volume="0.0"]
+[music path="res://vn/music/ch1/037119_wind-chimes-70499.mp3" fade="0.0" volume="0.0"]
+I smiled, unable to contain the joy I was feeling as my whole day--no, life--turned around.
+I thought back to the memories of sitting on the edge of the playgrounds, watching the others play with their toys. It wasn't just that they were unfriendly, it was like they were a different species.
+I didn't dislike them, I just couldn't communicate with them. The words--the reactions that they felt were natural--they didn't come to me.
+This night was surreal. I found someone I could talk to--who could talk to me--and we spoke each other's language. We giggled together, and they never said my laugh was creepy.
+It didn't just feel unreal, no, I couldn't convince myself it was real at all. \
+If I opened my eyes, would this all vanish into thin air? Is that the witch of the eve's magic trick?
+Ughhh... Was I always so desperate for the attention of another? I'm thinking so pathetically.[n+][pause=2]\
+As if to shake off the weariness, I shake my head, but accidentally open my eyes for a moment.
+[background arg="res://vn/backgrounds/ch1/gardeneyessquint.png" fade="2.0"]
+[wait time="2.0"]
+[background arg="res://vn/backgrounds/ch1/gardeneyesclosed.png" fade="0.3"]
+[music fade="0.0" volume="0.0"]
+[music path="res://vn/music/ch1/crickets-17862.mp3" fade="0.0" volume="0.0"]
+I only see it for a second. Their shirt and shorts are ripped up like they'd been chewed on.
+[sound path="res://vn/sfx/ch1/big-punch-with-whoosh-103638.mp3" volume="0.0"]
+Flinching at the realization of what I've done, I forget to catch the swing set as it flies my way.
+common/protagonist: Ack!!
+I land awkwardly on my side in the middle of the gravel.
+I hear them run off; they're probably afraid I'll open my eyes to see if I hurt myself.[n+][pause=2] After a few moments, I hear a pitter patter followed by quick hops, and can tell they've already ran back to me.
+ch1eve: Ehehehe...seems like you've run out of steam. [n+]\
+Want to stay at my sleepover as well?
+common/protagonist: Ahah...I actually have to get going about now...\
+What a lovely night, though. Thank you.
+...Oh god, I completely lost track of time in that haze...\
+Agh. Better get back home, and throw myself into bed.
+[background arg="res://vn/backgrounds/fadetoblack.png" fade="1.5"]
+[wait time="3.0"]
+[background arg="res://vn/backgrounds/ch1/bedroom.png" fade="0.3" transition="Swipe Diagonal Up Left"]
+Oh wow, it's already 1\:30!! [n+]\
+It's been a long day, let's get some rest...
+I take off my shirt as I get into bed, only to notice that I actually scraped my knee in the fall earlier... [n+]\
+I should probably bandage up. Those are stored in the kitchen, right?
+[music fade="0.0" volume="0.0"]
+[background arg="res://vn/backgrounds/fadetowhite.png" fade="1.0" transition="Push Left"]
+I sloooowly open my room's door, stepping into the hallway as quietly as I could muster.[n+]\
+I turn the corner, only to see my dad sleeping on the couch right by the kitchen.
+[background arg="res://vn/backgrounds/ch1/bedroom.png" fade="1.0" transition="Push Right"]
+[music path="res://vn/music/ch1/crickets-17862.mp3" fade="0.0" volume="0.0"]
+Dammit. [n+]\
+I don't wanna wake him up; I'll just visit the Nurse's Office at school tomorrow.
+Jumping back into bed, some tiny tinges of pain finally register in my mind. Jeez...[n+]\
+Just one moment without stimulation, and so many thoughts rush to my mind.
+This was my first real friend. Not a friend put in the same pen as my toddler self, not forced cooperation at school, but someone I connected with on my own.
+[sound path="res://vn/music/heart-beating-5857.mp3" volume="6.0"]
+My heart was pounding. [n+]\
+And before I could celebrate, my brain naturally ran through a list of fears in my mind.
+First of all...are we even going to meet again?
+AGHH!!!!! If it wasn't so late, I'd scream outside of my mind, too. [n+]\
+We never agreed on a meeting time to see each other again.
+SAME TIME, SAME PLACE, TOMORROW!! SEE IF YOU CAN STOP ME,[n+] MOM,[n+] DAD!!!![n+][pause=2]\
+And like the power to the circuit in my heart ran out, I flopped over in exhaustion and passed out.
+[music fade="0.0" volume="0.0"]
+[background arg="res://vn/backgrounds/fadetoblack.png" fade="5.0"]
+[wait time="10.0"]
+jump ch2/

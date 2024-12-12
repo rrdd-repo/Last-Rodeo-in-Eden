@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dj525ri517phu"
+path="res://.godot/imported/Jazz at Mladost Club - Blue Monk.mp3-4864eca0b167143096e7095d80a79be3.mp3str"
+
+[deps]
+
+source_file="res://vn/music/ch4/Jazz at Mladost Club - Blue Monk.mp3"
+dest_files=["res://.godot/imported/Jazz at Mladost Club - Blue Monk.mp3-4864eca0b167143096e7095d80a79be3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

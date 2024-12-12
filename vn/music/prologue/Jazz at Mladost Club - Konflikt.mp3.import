@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cud0gbwlj3oe6"
+path="res://.godot/imported/Jazz at Mladost Club - Konflikt.mp3-81708ad6335adfe85735308a5b451e1f.mp3str"
+
+[deps]
+
+source_file="res://vn/music/prologue/Jazz at Mladost Club - Konflikt.mp3"
+dest_files=["res://.godot/imported/Jazz at Mladost Club - Konflikt.mp3-81708ad6335adfe85735308a5b451e1f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

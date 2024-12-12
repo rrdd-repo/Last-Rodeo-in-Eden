@@ -1,0 +1,248 @@
+[background arg="res://vn/backgrounds/ch2/morningch2.png" fade="2.5"]
+[wait time="3.0"]
+[music path="res://vn/music/ch2/birds-in-the-morning-24147.mp3" fade="0.0" volume="0.0"]
+I woke up hugging my pillow. [n+]\
+I wasn't ready to let go of this feeling, was I?
+Not much happened today. I wish I had stories to tell you, but I spent the day as I always do--[pause=0.3]alone.
+I had stopped by the doctor.[n+]\
+She asked me how I got scraped, so I told her I played on a swing set.
+But despite that being the only thing I remembered from the whole day, it had gone by dreadfully, dreadfully slow. [n+]\
+It was a day riddled with anxiety, a day dominated by the thoughts of one thing.
+[music fade="0.0" volume="0.0"]
+[background arg="res://vn/backgrounds/ch2/bedroomch2.png" fade="2.0"]
+[wait time="4.0"]
+[music path="res://vn/music/ch1/crickets-17862.mp3" fade="0.0" volume="0.0"]
+Only sense still correctly functioning is my earing, listening to each trickle of time pass. [n+]\
+9\:59\:51, 9\:59\:52, 9\:59\:53, 9\:59\:54, 9\:59\:55, 9\:59\:56...
+[sound path="res://vn/sfx/ch2/warning-sound-6686.mp3" volume="0.0"]
+The split second I hadn't paid attention, the clock strikes the golden number. [n+]\
+As I grab my backpack, I look under my door to thankfully see the lights are off outside.
+[background arg="res://vn/backgrounds/ch2/outsidewindowch2.png" fade="0.5"]
+[wait time="0.7"]
+[background arg="res://vn/backgrounds/ch2/citystreetch2.png" fade="0.5"]
+[wait time="0.7"]
+[sound path="res://vn/sfx/ch2/rapid-footsteps-upon-gravel-68853.mp3" volume="0.0"]
+[music fade="0.0" volume="0.0"]
+[music path="res://vn/music/ch2/wind-in-trees-117477.mp3" fade="0.0" volume="0.0"]
+I walked briskly to the park, wondering if maybe I should've come earlier, or waited.[n+]\
+That kid looked a little feral... Am I sure they'll even know what time I was there last night?
+[background arg="res://vn/backgrounds/ch2/thegarden2.png" fade="0.5"]
+[wait time="1.0"]
+Well, only time will tell. We're here.
+[background arg="res://vn/backgrounds/ch1/gardeneyesclosed.png" fade="0.1" transition="Simple Fade"]
+I step to the center of the playground, and close my eyes as tight as I can. [n+]\
+Maybe my brain thinks they'd show up if I squinted harder.
+Time begins to pass, I can tell because my breathing has ceased.[n+]\
+How many seconds has it been?[pause=0.2] 2?[pause=0.3] 8?[pause=0.1] Forever?
+[sound path="res://vn/sfx/ch2/heavy-cloth-rustle-106346.mp3" volume="0.0"]
+The noise of something falling onto the gravel rings out in front of me.
+questionmark: Heya, 'got you this!!
+[music fade="0.0" volume="0.0"]
+[sound path="res://vn/sfx/ch2/anime-46068.mp3" volume="0.0"]
+common/protagonist: AAAACKK!!![n+]\
+Aahh, you should've said something first!! I[pause=0.2]...I didn't know you were even here!!
+[music path="res://vn/music/ch1/the-place-we-dreamed-of-231049.mp3" fade="0.0" volume="0.0"]
+They had taken advantage of my weak point...walking inches from my face while my eyes were closed. [n+]\
+Now that I was done with fear, the next emotion in line was joy. I was about to process my own joy.
+I wanted to hug them, but the first thing I needed to do was see what his gift was.[n+]\
+I knelt down, fumbling through feelings on the floor until I recognized I was touching fabric.
+ch1eve: I brought you an outfit! I wanted to give you a seeeecret identity for our seeeeeecret base!!
+common/protagonist: Putting on an outfit in the dark? That might be your toughest request yet...\
+Would you mind stepping behind a tree, or something? Just for a second.
+ch1eve: Roger that, aye aye captain!
+[sound path="res://vn/sfx/ch1/walking-in-gravel-91427.mp3" volume="0.0"]
+[background arg="res://vn/backgrounds/ch2/thegarden2.png" fade="4.0"]
+I hear a mischievous splash of gravel as they run off. [n+]\
+Opening my eyes, I'm surprised to see such an elaborate design in front of me.
+I put it on top of the layer of clothes I had on; I couldn't risk taking any further suspicion if I came home with dirty clothes.
+It was luxurious and frilly, emanating the aura of the sort of clothing priests wore.[n+]\
+I swore it also felt a bit dusty, as if it had been lying in some closet for a long time.
+I considered asking if this had been stolen from the local church, but didn't think I'd get a straight answer regardless.
+common/protagonist: I'm dooooone, you can come out now.[n+]\
+I'll shut my eyes tight real quick.
+[background arg="res://vn/backgrounds/ch2/thegarden2.png" fade="0.1"]
+[wait time="3.0"]
+But for some reason, I heard nothing. And nothing began to last a long time.[n+]\
+Was this their final gift, or something?
+[sound path="res://vn/sfx/ch2/bubble-sound-43207.mp3" volume="0.0"]
+Suddenly, I felt a tap on my shoulder.
+Accck...\
+Looking behind me on raw instinct, I was greeted by the sight of someone in an even more sophisticated getup.
+...Disappointingly, I still couldn't get a good look at their face--it was covered in a veil-esque mask.
+[background arg="res://vn/backgrounds/ch2/thegarden2.png" fade="0.1" transition="Swipe Right To Left"]
+ch1eve: Ehehehe!!! You thought you were special, didn't you!!
+common/protagonist: Nuh uh. Well, I guess I didn't consider this was your plan.
+ch1eve: It's just most comfortable this way. I gave you your own, too!![n+]\
+Now...for the real hard part. We must come up with names for our alter egos of the night!
+Something told me this kid is quite insecure about their true identity.[n+]\
+But I've had enough fun with them so far, I don't mind playing superhero. I'll humour this.
+ch1eve: Alright, I'll start!![lspeed=0.1] ...............Ummm............ Aiiii... can't think of anything...
+common/protagonist: You're naming yourself, right? Think about what you identify with, what you envision as yourself.
+ch1eve: Hmmmm...I wanna change the world, and I wanna make the world a better place.[n+]\
+And, when I'm done, everyone will let me rule over them!! Cuz I'm just that nice, ehe!!
+common/protagonist: First of all, ruling the world is not a personality trait, sorry. [n+]\
+Second of all, so, you wanna rule *over* the world? How about naming yourself after the sky or something?
+ch1eve: I want to be higher than the sky!!!
+common/protagonist: How about a planet?
+ch1eve: Planets?...I remember Mars, Pluto, Jupiter...[pause=0.3]\
+....ooooh, Saturn sounds coolest!
+common/protagonist: But magical fighters against evil are named after planets are kinda overused, aren't they?
+ch1eve: Common names aren't a problem, you just have to put a number at the end!!! Here, watch this!![n+]\
+Fear not, citizens...for it is I! Savior Saturn4110!!
+That wasn't smooth at all....but I'm not one to speak yet. [n+]\
+I'll just wing it.
+common/protagonist: ...A[pause=0.1]-and it is I, Savior Yggdrasil!!!![lspeed=0.1]....413.
+I picked a random thing from my favourite video game...
+common/fillername4: The name you picked is kinda complicated...I don't wanna say that all the time now!![n+]\
+I've got my eyes on you, Ygg-Ygg!!
+The improv caught me off guard, but it oddly felt right. [n+]\
+My real name stopped feeling like it meant something when it was only used professionally.
+[wait time="0.5"]
+common/fillername4: You know what that means, Yggy!!\
+From now on, we're no longer lowly and powerless...but heroes of the night!!!
+common/fillername3: Uh huh.[n+]\
+So....what do we do, as magical girls or whatever?
+common/fillername4: Our journey *reaaaally* starts here!!
+Their posture leans in seriously, in a way that precedes the nonchalant way they spoke.
+common/fillername3: Yeah, but like... journeys have movement, y'know?
+Without words, Saturn ran off, before quickly coming back with a stick in hand. [n+]\
+They began furiously drawing away at the gravel, painting a little explanation of their grand scheme.
+They doodled two stick figures standing on the Earth with crowns.
+common/fillername3: I still don't get why ruling the world is so necessary in your plans.
+common/fillername4: Pshhhh, You're no fun. The people will looooove me, and cherish me, and it'll happen naturally!!!
+common/fillername3: I don't trust you...Dummy.
+common/fillername4: YOU'RE THE DUMMY!!! Dummy, dummy, dummydummydummy 🎵🎵🎵🎵
+But what happened next surprised me. [n+]\
+They began to draw line after line after line, interwoven with blocks and nestles.
+Slowly, my eyes widened as I realized these things represented buildings, nestles, and industrial grottos.
+[wait time="1.0"]
+....I think I can see my house in there.
+common/fillername3: Saturn, you're incredible!! You know the city so well!!
+common/fillername4: So, we're standing riiiiiiiiight here. But if we travel off to the west, we can pick up some party members. [n+]\
+My plan is for us to help enough people as to build up supporters, and then we can move on.
+They were using the exact language I'd used yesterday to describe the video game we were playing.[n+]\
+They must've picked up a plan overnight from thinking about the game alone...
+common/fillername3: Is this a plan you've thought about for a long time?
+Saturn holds for a moment. I can't read their facial expressions, but I can guess that question was loaded.
+common/fillername4: [pause=0.5]I've looked down on this city quite a bit. [n+]\
+From alleys, rooftops, balconies. I hear so many conversations passing by.
+common/fillername4: I never approach directly. [n+]\
+That's why not a single soul but you knows I exist!
+Their words took a moment for me to process. [n+]\
+I didn't speak it aloud, but I found that idea alarming. I began to think about all the previous suspicions I had of where they could even be from.
+common/fillername4: Combing through the night this way is my normal.[n+]\
+Which is why it's always so surprising to me when I listen in on regular people, and realize they're all lonelier than me.
+common/fillername4: I just thought, that I've spent so much time being insignificant to everyone.[n+]\
+Couldn't I be the one to change something?
+[background arg="res://vn/backgrounds/ch2/citystreetch2.png" fade="10.0"]
+[music fade="0.0" volume="0.0"]
+[music path="res://vn/music/ch2/wind-in-trees-117477.mp3" fade="0.0" volume="0.0"]
+We spoke as we walked. They were taking me up the path they had drawn in the gravel.[n+]\
+I realized now more than ever that Saturn really meant what they said about wanting to be a hero.
+[sound path="res://vn/sfx/ch2/anime-46068.mp3" volume="0.0"]
+common/fillername3: ....!!
+Once we touched the pavement, they began to hold my hand again.[n+]\
+...If my eyes aren't closed, we don't need to be doing this, right?
+Maybe it was my imagination, but they must've been shaking a little.
+common/fillername4: ....Eeeepp!!!
+And just as they began to hold it, that touch left my palm.
+Despite the big talk about "recruiting", Saturn was still resorting to their survival tactics--hiding behind any alleyway the moment we got near a person.
+Since I'm still wearing an elaborate get-up, I get many strange looks as I walk "alone" along the pavement. [n+]\
+People casually crossing the street to the opposite side the moment they see me.
+Usually, I hate this type of awkwardness, but the anonymity the suit lends me is surprisingly comforting.[n+]\
+I understand how Saturn feels now.
+[pause=0.3]Eventually, the hand I had been tugging forward came to a stop.[n+]\
+I looked to see what the hold-up was, and they were enraptured in a store display's commercial.
+It was a video game, a flashily coloured fighting game with superheroes fighting each other.[n+]\
+If my ears hadn't maligned me, I think I heard them mutter "So cool...."...
+common/fillername4: Hey, it didn't say if it was for the game thing you had.[pause=0.3]..Do you think I could still play it?
+common/fillername3: I think I have that game at home.
+common/fillername4: [lspeed=0.1].....\
+[lspeed=0.01]YOU HAVE A HOME?!
+...Do they not?
+common/fillername4: Ahaha...I thought I was the only one!!!\
+I bet yours doesn't compare to this beautiful garden, though.
+common/fillername3: Garden? What grows here?
+common/fillername4: You, ya dummy!! *You* grew from beneath me!!
+[wait time="3.0" hide_text="false"]
+This kid sure is weird.[n+]\
+But, they've been so nice to me, shouldn't I repay them just this once?
+common/fillername3: [pause=0.3][lspeed=0.08]Hey, Saturn, I have an idea.[n+]\
+This might be crazy, but...if you want to play that game so bad, do you want to come to my place?
+common/fillername4: Ehehe...No one's ever invited me to their home before!![n+]\
+Sure, it'll be a playdate!!
+*Oh...god.*[n+]\
+It only settled in my mind after saying it that this is the riskiest thing I've ever promised to do.
+Just looking at them, I could tell they had interpreted this no other way than "let's go, right now."\
+They had calmed right down; my suggestion was the thing getting them through this.
+common/fillername3: What about your plans of world domination thing? You leaving that for another night?
+common/fillername4: I think I underprepared...Tomorrow though, it begins for REAL! Just you wait!!
+They said it with a defensive inflection, as if I was thinking they were a coward.[n+]\
+I figured I'd just leave it for now.
+[music fade="0.0" volume="0.0"]
+[music path="res://vn/music/ch1/crickets-17862.mp3" fade="0.0" volume="0.0"]
+[background arg="res://vn/backgrounds/ch2/outsidewindowch2.png" fade="2.3"]
+[wait time="3.0"]
+It usually wasn't a long trip home from this part of town, but Saturn's shyness added a lot of delays. \
+But eventually, we ended up here--standing before a lone windowsill in my backyard.
+Saturn hadn't spoken up on it yet.[n+]\
+This was when I was most certain they didn't have a good relationship with their own home. Did they even have one?
+I crawled through the window, and they followed my lead.
+[background arg="res://vn/backgrounds/ch2/bedroomch2.png" fade="2.0"]
+[wait time="2.0"]
+I looked at the clock. It was just past midnight.[n+]\
+I knew my parents were already deep asleep at this point[pause=0.1]--which relieved me--[pause=0.1]but asked them to keep their voice down.
+We looked through my shelf, and[lspeed=0.3].......[lspeed=0.08]there it was!!![n+]\
+The bright logo-work on the game's box practically shone out in the dark.
+[music fade="0.0" volume="0.0"]
+[music path="res://vn/music/ch2/button-mashing-32415.mp3" fade="0.0" volume="0.0"]
+I quickly plugged it in, and grabbed two controllers.[n+]\
+We played for an amount of time that felt endless before Saturn would speak up again.
+[wait time="1.0"]
+common/fillername4: I-I...didn't realize you were apart of the light world.
+common/fillername3: Huh?
+common/fillername4: You seemed lonely to me, but you have so much...[n+]\
+I thought we might've been more similar. You even have two whole parents.
+common/fillername3: Ahh, Saturn...\
+I'm not lying when I say I was so lonely before meeting you. My world was so empty.
+common/fillername4: Oh, really?[pause=0.3] ...I don't get it.
+common/fillername3: It's complicated, my time in this world--despite everything--is complicated.[n+]\
+Maybe not in comparison to what you've been through, but I'll try my best to describe it.
+[music fade="0.0" volume="0.0"]
+[music path="res://vn/music/ch1/037119_wind-chimes-70499.mp3" fade="0.0" volume="0.0"]
+So, I told them everything. [n+]\
+I told him it was my birthday yesterday. I told him that I stayed in my room playing video games all day.
+I told them that I hadn't been able to make a single friend since I moved here.[n+]\
+I told them that the loneliness was finally getting to me.
+It wasn't that I hated socializing at school. I told them It wasn't even the people's faults.[n+]\
+They could be mean, but many of them seemed to get along certainly fine with each other.
+It was something simpler than that.[n+]\
+It was like there were barriers between me and others.
+I could barely describe it in words. The average person had the type of personality I couldn't reach.[n+]\
+I wanted to touch other'ss hearts-- I wanted them to touch my heart--but words weren't working.
+And what was left other than words? [n+]\
+Where could I go next, what could I try next? It's not like they teach you that.
+And I told them that I wanted to kill myself, because there was nothing I could do about that solitude.[n+]\
+Adults don't like when children say those kinds of words. They say they're overreacting.
+But dammit, I just wanted someone to my feelings to stop bouncing off others.
+I told them that I wanted to touch someone, and for them to understand--for it to mean something to that someone.
+...Eventually, I ran out of steam to keep ranting on, and everything fell silent again.[n+]\
+It took a few more rounds for Saturn to speak up.
+common/fillername4: [pause=0.5][lspeed=0.1].......[lspeed=0.01]I think I understand a little more about the human world's problems.
+Ignoring their strange phrases once again, I wondered what they meant by that.
+common/fillername4: I'll have to take this changing the world stuff more seriously.[n+]\
+When I peer into it...everyone seems so isolated from each other.
+They put the controller down, and stepped towards the window.[n+]\
+I had feared that I scared them off, but they gave one last sardonic giggle.
+[music fade="0.0" volume="0.0"]
+[music path="res://vn/music/ch2/wind-in-trees-117477.mp3" fade="0.0" volume="0.0"]
+common/fillername4: Ehehehe... Ygg, let's meet again.[n+]\
+I like you a lot.
+common/fillername4: I did some reflecting tonight. I wanted to change the world for my own sake, because I hated living in it.[n+]\
+I realize that now, you're my biggest motivation. Let's switch it up on your world too.
+And with those final words, they were gone.[n+]\
+I'll see you tomorrow, I guess.
+[music fade="0.0" volume="0.0"]
+[background arg="res://vn/backgrounds/fadetoblack.png" fade="7.0"]
+[wait time="10.0"]
+jump ch3/
